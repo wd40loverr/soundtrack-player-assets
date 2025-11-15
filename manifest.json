@@ -228,7 +228,7 @@
     },
     {
       "path": "music/game/oxygene.ogg",
-      "name": "Oxygène",
+      "name": "Oxyg\u00e8ne",
       "composer": "C418",
       "category": "game_music",
       "subcategory": "overworld"
@@ -495,7 +495,7 @@
     {
       "path": "records/5.ogg",
       "name": "5",
-      "composer": "Samuel Åberg",
+      "composer": "Samuel \u00c5berg",
       "category": "music_discs",
       "subcategory": "disc"
     },
@@ -625,5 +625,6 @@
       "category": "music_discs",
       "subcategory": "disc"
     }
-  ]
+  ],
+  "file_count": 86
 }
