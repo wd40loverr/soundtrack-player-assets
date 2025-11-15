@@ -1,0 +1,629 @@
+{
+  "version": "1.0.0",
+  "minecraft_version": "1.21",
+  "last_updated": "2025-11-15",
+  "download_url": "https://github.com/wd40loverr/soundtrack-player-assets/releases/download/minecraft/songs.zip",
+  "total_size_mb": 254,
+  "base_folder": "exported_songs",
+  "categories": {
+    "game_music": {
+      "name": "Game Music",
+      "description": "Ambient music that plays during gameplay",
+      "path": "music/game"
+    },
+    "menu_music": {
+      "name": "Menu Music",
+      "description": "Music that plays in menus",
+      "path": "music/menu"
+    },
+    "music_discs": {
+      "name": "Music Discs",
+      "description": "Collectible music discs from the game",
+      "path": "records"
+    }
+  },
+  "tracks": [
+    {
+      "path": "music/game/ancestry.ogg",
+      "name": "Ancestry",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/an_ordinary_day.ogg",
+      "name": "An Ordinary Day",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/a_familiar_room.ogg",
+      "name": "A Familiar Room",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/below_and_above.ogg",
+      "name": "Below and Above",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/broken_clocks.ogg",
+      "name": "Broken Clocks",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/bromeliad.ogg",
+      "name": "Bromeliad",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/clark.ogg",
+      "name": "Clark",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/comforting_memories.ogg",
+      "name": "Comforting Memories",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/crescent_dunes.ogg",
+      "name": "Crescent Dunes",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/danny.ogg",
+      "name": "Danny",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/deeper.ogg",
+      "name": "Deeper",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/dry_hands.ogg",
+      "name": "Dry Hands",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/echo_in_the_wind.ogg",
+      "name": "Echo in the Wind",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/eld_unknown.ogg",
+      "name": "Eld Unknown",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/endless.ogg",
+      "name": "Endless",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/featherfall.ogg",
+      "name": "Featherfall",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/fireflies.ogg",
+      "name": "Fireflies",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/floating_dream.ogg",
+      "name": "Floating Dream",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/haggstrom.ogg",
+      "name": "Haggstrom",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/infinite_amethyst.ogg",
+      "name": "Infinite Amethyst",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/key.ogg",
+      "name": "Key",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/komorebi.ogg",
+      "name": "Komorebi",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/left_to_bloom.ogg",
+      "name": "Left to Bloom",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/lilypad.ogg",
+      "name": "Lilypad",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/living_mice.ogg",
+      "name": "Living Mice",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/mice_on_venus.ogg",
+      "name": "Mice on Venus",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/minecraft.ogg",
+      "name": "Minecraft",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/one_more_day.ogg",
+      "name": "One More Day",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/os_piano.ogg",
+      "name": "Os Piano",
+      "composer": "Kumi Tanioka",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/oxygene.ogg",
+      "name": "Oxygène",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/pokopoko.ogg",
+      "name": "Pokopoko",
+      "composer": "Kumi Tanioka",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/puzzlebox.ogg",
+      "name": "Puzzlebox",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/stand_tall.ogg",
+      "name": "Stand Tall",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/subwoofer_lullaby.ogg",
+      "name": "Subwoofer Lullaby",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/sweden.ogg",
+      "name": "Sweden",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/watcher.ogg",
+      "name": "Watcher",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/wending.ogg",
+      "name": "Wending",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/wet_hands.ogg",
+      "name": "Wet Hands",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/yakusoku.ogg",
+      "name": "Yakusoku",
+      "composer": "Kumi Tanioka",
+      "category": "game_music",
+      "subcategory": "overworld"
+    },
+    {
+      "path": "music/game/creative/aria_math.ogg",
+      "name": "Aria Math",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/creative/biome_fest.ogg",
+      "name": "Biome Fest",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/creative/blind_spots.ogg",
+      "name": "Blind Spots",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/creative/dreiton.ogg",
+      "name": "Dreiton",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/creative/haunt_muskie.ogg",
+      "name": "Haunt Muskie",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/creative/taswell.ogg",
+      "name": "Taswell",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "creative"
+    },
+    {
+      "path": "music/game/end/alpha.ogg",
+      "name": "Alpha",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "end"
+    },
+    {
+      "path": "music/game/end/boss.ogg",
+      "name": "Boss",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "end"
+    },
+    {
+      "path": "music/game/end/the_end.ogg",
+      "name": "The End",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "end"
+    },
+    {
+      "path": "music/game/nether/ballad_of_the_cats.ogg",
+      "name": "Ballad of the Cats",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/concrete_halls.ogg",
+      "name": "Concrete Halls",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/dead_voxel.ogg",
+      "name": "Dead Voxel",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/warmth.ogg",
+      "name": "Warmth",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/crimson_forest/chrysopoeia.ogg",
+      "name": "Chrysopoeia",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/nether_wastes/rubedo.ogg",
+      "name": "Rubedo",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/nether/soulsand_valley/so_below.ogg",
+      "name": "So Below",
+      "composer": "Lena Raine",
+      "category": "game_music",
+      "subcategory": "nether"
+    },
+    {
+      "path": "music/game/swamp/aerie.ogg",
+      "name": "Aerie",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "swamp"
+    },
+    {
+      "path": "music/game/swamp/firebugs.ogg",
+      "name": "Firebugs",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "swamp"
+    },
+    {
+      "path": "music/game/swamp/labyrinthine.ogg",
+      "name": "Labyrinthine",
+      "composer": "Aaron Cherof",
+      "category": "game_music",
+      "subcategory": "swamp"
+    },
+    {
+      "path": "music/game/water/axolotl.ogg",
+      "name": "Axolotl",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "water"
+    },
+    {
+      "path": "music/game/water/dragon_fish.ogg",
+      "name": "Dragon Fish",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "water"
+    },
+    {
+      "path": "music/game/water/shuniji.ogg",
+      "name": "Shuniji",
+      "composer": "C418",
+      "category": "game_music",
+      "subcategory": "water"
+    },
+    {
+      "path": "music/menu/beginning_2.ogg",
+      "name": "Beginning 2",
+      "composer": "C418",
+      "category": "menu_music",
+      "subcategory": "menu"
+    },
+    {
+      "path": "music/menu/floating_trees.ogg",
+      "name": "Floating Trees",
+      "composer": "C418",
+      "category": "menu_music",
+      "subcategory": "menu"
+    },
+    {
+      "path": "music/menu/moog_city_2.ogg",
+      "name": "Moog City 2",
+      "composer": "C418",
+      "category": "menu_music",
+      "subcategory": "menu"
+    },
+    {
+      "path": "music/menu/mutation.ogg",
+      "name": "Mutation",
+      "composer": "C418",
+      "category": "menu_music",
+      "subcategory": "menu"
+    },
+    {
+      "path": "records/11.ogg",
+      "name": "11",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/13.ogg",
+      "name": "13",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/5.ogg",
+      "name": "5",
+      "composer": "Samuel Åberg",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/blocks.ogg",
+      "name": "Blocks",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/cat.ogg",
+      "name": "Cat",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/chirp.ogg",
+      "name": "Chirp",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/creator.ogg",
+      "name": "Creator",
+      "composer": "Lena Raine",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/creator_music_box.ogg",
+      "name": "Creator (Music Box)",
+      "composer": "Lena Raine",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/far.ogg",
+      "name": "Far",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/lava_chicken.ogg",
+      "name": "Lava Chicken",
+      "composer": "Kumi Tanioka",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/mall.ogg",
+      "name": "Mall",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/mellohi.ogg",
+      "name": "Mellohi",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/otherside.ogg",
+      "name": "Otherside",
+      "composer": "Lena Raine",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/pigstep.ogg",
+      "name": "Pigstep",
+      "composer": "Lena Raine",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/precipice.ogg",
+      "name": "Precipice",
+      "composer": "Aaron Cherof",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/relic.ogg",
+      "name": "Relic",
+      "composer": "Aaron Cherof",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/stal.ogg",
+      "name": "Stal",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/strad.ogg",
+      "name": "Strad",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/tears.ogg",
+      "name": "Tears",
+      "composer": "Kumi Tanioka",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/wait.ogg",
+      "name": "Wait",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    },
+    {
+      "path": "records/ward.ogg",
+      "name": "Ward",
+      "composer": "C418",
+      "category": "music_discs",
+      "subcategory": "disc"
+    }
+  ]
+}
